@@ -22,8 +22,4 @@
 
 - 使用效果
 
-    before:
-    ![before](image/before.png)
-
-    after:
-    ![after](image/after.png)
+    ![commit](image/commit.gif)
